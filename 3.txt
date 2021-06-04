@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This test change congratulations2 -->-->
+FGFD
+RTET
+=======
+This test change congratulations2 -->-->
+>>>>>>> main
